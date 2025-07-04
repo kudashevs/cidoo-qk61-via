@@ -73,7 +73,7 @@ the FN key to be in a different position. As you can see in the first picture th
 |---------------------|--------|-------------------------------------------------------|
 | FN+Z                |        | Toggle LOGO LED light mode                            |
 | FN+X                |        | Toggle LOGO LED light color                           |
-| FN+Space            |        | Toggle ON/ OFF Backlight (different from the manual)  |
+| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)   |
 | FN+Backspace        |        | Reset the keyboard to the factory setting (different) |
 | &nbsp;              |        |                                                       |
 | FN+A                |        | Windows System                                        |
