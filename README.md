@@ -127,8 +127,8 @@ this layout does not have the possibility to use the 3rd layer.
 |---------------------|--------|-----------------------------------------------------------------------|
 | FN+[                |        | Toggle LOGO LED light mode                                            |
 | FN+]                |        | Toggle LOGO LED light color                                           |
-| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)                   |
-| FN+Backspace        |        | Reset the keyboard to the factory setting (different from the manual) |
+| FN+Space            |        | Toggle ON/OFF Backlight                                               |
+| FN+Backspace        |        | Reset the keyboard to the factory setting                             |
 | &nbsp;              |        |                                                                       |
 | -                   |        | Windows System (I don't need it)                                      |
 | -                   |        | Mac System (I don't need it)                                          |
