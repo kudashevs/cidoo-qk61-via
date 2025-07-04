@@ -174,7 +174,7 @@ but I would like to share it because it might be useful for someone who misses t
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/2612d122-9666-4def-a8d4-31f79aad85d7" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/e6737cc4-82ab-4a5b-9b65-8573f4dac219" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/48d7c4ce-5bc4-4c70-b7e2-6828933d2061" />
 <img alt="Layer 3" src="https://github.com/user-attachments/assets/061918d0-8dae-492a-ac22-a25d6a6792fc" />
 </p>
 
