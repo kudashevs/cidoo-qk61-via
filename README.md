@@ -110,7 +110,7 @@ the FN key to be in a different position. As you can see in the first picture th
 | FN+RAlt             | Left   | Left                                                                  |
 | FN+RCtrl            | Right  | Right                                                                 |
 
-Download the [default layout](layouts/default-cidoo_qk61.layout.json)
+Download the [default layout](layouts/default-cidoo_qk61.layout.json) - use "Download as raw file".
 
 ### <a id="vim-like">Vim-like layout
 
@@ -165,4 +165,4 @@ this layout does not have the possibility to use the 3rd layer.
 | FN+H                | Left   | Left (Vim-like binding)                                               |
 | FN+L                | Right  | Right (Vim-like binding)                                              |
 
-Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json)
+Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
