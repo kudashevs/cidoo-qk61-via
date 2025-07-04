@@ -55,3 +55,51 @@ related and came from different sources. In this repository you will find to lay
 
 **Warning:** I don't really care about RBGs, lighting and other light related stuff. Some light-related keys might be
 overwritten because I didn't pay much attention to those keys while I thought about remapping. 
+
+### Default layout
+
+You can find the information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). However,
+in my case the layout was a little different from in the manual. In addition, it was a bit surprising for me because I expected
+the FN key to be in a different position.
+
+| Key/Key combination   | Description                                            |
+|-----------------------|--------------------------------------------------------|
+| FN+Z                  | Toggle LOGO LED light mode                             |
+| FN+X                  | Toggle LOGO LED light color                            |
+| FN+Space              | Toggle ON/ OFF Backlight (different from the manual)   |
+| FN+Backspace          | Reset the keyboard to the factory setting (different)  |
+| --------------------- | ------------------------------------------------------ |
+| FN+A                  | Windows System                                         |
+| FN+S                  | Mac System                                             |
+| --------------------- | ------------------------------------------------------ |
+| Esc                   | Esc                                                    |
+| FN+Esc                | `                                                      |
+| FN+1                  | F1                                                     |
+| FN+2                  | F2                                                     |
+| FN+3                  | F3                                                     |
+| FN+4                  | F4                                                     |
+| FN+5                  | F5                                                     |
+| FN+6                  | F6                                                     |
+| FN+7                  | F7                                                     |
+| FN+8                  | F8                                                     |
+| FN+9                  | F9                                                     |
+| FN+0                  | F10                                                    |
+| FN+-_                 | F11                                                    |
+| FN+=+                 | F12                                                    |
+| FN+T                  | PrtSc                                                  |
+| FN+Y                  | Scroll                                                 |                
+| FN+U                  | Pause                                                  |
+| --------------------- | ------------------------------------------------------ |
+| FN+G                  | Insert                                                 |
+| FN+B                  | Delete                                                 |
+| FN+H                  | Home                                                   |
+| FN+N                  | End                                                    |
+| FN+J                  | PgUp                                                   |
+| FN+M                  | PgDn                                                   |
+| --------------------- | ------------------------------------------------------ |
+| FN+/?                 | Up                                                     |
+| FN+ APP               | Down                                                   |
+| FN+ALT-R              | Left                                                   |
+| FN+ CTRL-R            | Right                                                  |
+| --------------------- | ------------------------------------------------------ |
+
