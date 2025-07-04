@@ -79,7 +79,7 @@ the FN key to be in a different position. As you can see in the first picture th
 | &nbsp;              |        |                                                                       |
 | FN+A                |        | Windows System                                                        |
 | FN+S                |        | Mac System                                                            |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       |
 | Esc                 | Esc    | Esc                                                                   |
 | FN+Esc              | `      | Backtick                                                              |
 | FN+1                | F1     | F1                                                                    |
@@ -97,14 +97,14 @@ the FN key to be in a different position. As you can see in the first picture th
 | FN+T                | PrtSc  | Print Screen                                                          |
 | FN+Y                | Scroll | Scroll                                                                |                
 | FN+U                | Pause  | Pause                                                                 |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       | 
 | FN+G                | Ins    | Insert                                                                |
 | FN+B                | Del    | Delete                                                                |
 | FN+H                | Home   | Home                                                                  |
 | FN+N                | End    | End                                                                   |
 | FN+J                | PgUp   | Page Up                                                               |
 | FN+M                | PgDn   | Page Down                                                             |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       |
 | FN+/?               | Up     | Up                                                                    |
 | FN+App              | Down   | Down                                                                  |
 | FN+RAlt             | Left   | Left                                                                  |
@@ -132,7 +132,7 @@ this layout does not have the possibility to use the 3rd layer.
 | &nbsp;              |        |                                                                       |
 | -                   |        | Windows System (I don't need it)                                      |
 | -                   |        | Mac System (I don't need it)                                          |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       |
 | CapsLock            | Esc    | Esc                                                                   |
 | FN+Esc              | Esc    | Esc                                                                   |
 | Esc                 | `      | Backtick                                                              |
@@ -151,7 +151,7 @@ this layout does not have the possibility to use the 3rd layer.
 | FN+T                | PrtSc  | Print Screen                                                          |
 | FN+Y                | Scroll | Scroll                                                                |                
 | FN+U                | Pause  | Pause                                                                 |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       |
 | FN+I                | Ins    | Insert (Vim-like and semantic binding)                                |
 | FN+D                | Del    | Delete (semantic binding)                                             |
 | FN+X                | Del    | Delete (Vim-like binding)                                             |
@@ -159,7 +159,7 @@ this layout does not have the possibility to use the 3rd layer.
 | FN+N                | End    | End                                                                   |
 | FN+B                | PgUp   | Page Up (Vim-like binding)                                            |
 | FN+F                | PgDn   | Page Down (Vim-like binding)                                          |
-| &nbsp;              |        |
+| &nbsp;              |        |                                                                       |
 | FN+K                | Up     | Up (Vim-like binding)                                                 |
 | FN+J                | Down   | Down (Vim-like binding)                                               |
 | FN+H                | Left   | Left (Vim-like binding)                                               |
