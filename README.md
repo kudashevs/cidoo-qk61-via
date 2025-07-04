@@ -230,3 +230,5 @@ to share it because it might be useful for someone who misses the arrow keys and
 | RS+>.               | PgUp   | Page Up                                                               |
 | RS+RShift           | PgDn   | Page Down                                                             |
 | RS+M                | Mute   | Mute                                                                  |
+
+Download the [extended layout](layouts/extended-cidoo_qk61.layout.json) - use "Download as raw file".
