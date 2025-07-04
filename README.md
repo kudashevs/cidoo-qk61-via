@@ -117,6 +117,12 @@ Download the [default layout](layouts/default-cidoo_qk61.layout.json)
 This is my personal layout which I use one every day basis. Pay attention that I remapped CapsLock to Esc. In addition,
 this layout does not have the possibility to use the 3rd layer.
 
+<p align="center">
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/2fc8ac6d-b188-4eb8-b35a-b9f805448694" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/2685239b-414c-49c6-a2ff-a9a99da20c0b" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/01141259-29d8-4220-8c25-56cb4a538eee" />
+</p>
+
 | Key/Key combination | Key    | Description                                                           |
 |---------------------|--------|-----------------------------------------------------------------------|
 | FN+[                |        | Toggle LOGO LED light mode                                            |
