@@ -164,3 +164,5 @@ this layout does not have the possibility to use the 3rd layer.
 | FN+J                | Down   | Down (Vim-like binding)                                               |
 | FN+H                | Left   | Left (Vim-like binding)                                               |
 | FN+L                | Right  | Right (Vim-like binding)                                              |
+
+Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json)
