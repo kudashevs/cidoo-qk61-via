@@ -61,10 +61,9 @@ overwritten because I didn't pay much attention to those keys while I thought ab
 
 ### <a id="default">Default layout
 
-You can find information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual).
-However, in my case the layout was a little different from what is in the manual. In addition, it was a bit surprising
-for me because I expected the FN key to be in a different position. As you can see in the first picture, the FN key is
-on the very bottom right.
+You can find information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). In my case,
+the layout was a little different from what is in the manual. In addition, it was a bit surprising for me because I expected
+the FN key to be in a different position. As you can see in the first picture, the FN key is on the very bottom right.
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/c0fc3218-a72a-49c1-93d4-36235e8394be" />
