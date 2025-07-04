@@ -9,7 +9,7 @@ Before using the layout files from this repo, make sure that your keyboard has t
 are different ways how you can do it. I would recommend using the Chrome browser because this is the easiest one.
 
 Open Chrome browser, type `chrome://usb-internals` and open the "Devices" tab. There you will see a Vendor ID (VID) and
-Product ID (PID). These IDs are important to know because they are used in VIA definition files and [VIA uses them](https://caniusevia.com/docs/specification/)
+Product ID (PID). These IDs are important because they are used in VIA definition files and [VIA uses them](https://caniusevia.com/docs/specification/)
 to identify the keyboard when it is plugged in. If a definition file doesn't work, you can open it and check these IDs.
 
 <img alt="USB internals" src="https://github.com/user-attachments/assets/f8d78b11-1f88-464f-9c5e-6d5c749cceb4" />
