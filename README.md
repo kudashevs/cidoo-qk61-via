@@ -69,44 +69,44 @@ the FN key to be in a different position. As you can see in the first picture th
 <img alt="Layer 3" src="https://github.com/user-attachments/assets/fa06005f-574f-4ecc-a23f-2984e156d3e6" />
 </p>
 
-| Key/Key combination | Key    | Description                                           |
-|---------------------|--------|-------------------------------------------------------|
-| FN+Z                |        | Toggle LOGO LED light mode                            |
-| FN+X                |        | Toggle LOGO LED light color                           |
-| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)   |
-| FN+Backspace        |        | Reset the keyboard to the factory setting (different) |
-| &nbsp;              |        |                                                       |
-| FN+A                |        | Windows System                                        |
-| FN+S                |        | Mac System                                            |
+| Key/Key combination | Key    | Description                                                           |
+|---------------------|--------|-----------------------------------------------------------------------|
+| FN+Z                |        | Toggle LOGO LED light mode                                            |
+| FN+X                |        | Toggle LOGO LED light color                                           |
+| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)                   |
+| FN+Backspace        |        | Reset the keyboard to the factory setting (different from the manual) |
+| &nbsp;              |        |                                                                       |
+| FN+A                |        | Windows System                                                        |
+| FN+S                |        | Mac System                                                            |
 | &nbsp;              |        |
-| Esc                 | Esc    | Esc                                                   |
-| FN+Esc              | `      | Backtick                                              |
-| FN+1                | F1     | F1                                                    |
-| FN+2                | F2     | F2                                                    |
-| FN+3                | F3     | F3                                                    |
-| FN+4                | F4     | F4                                                    |
-| FN+5                | F5     | F5                                                    |
-| FN+6                | F6     | F6                                                    |
-| FN+7                | F7     | F7                                                    |
-| FN+8                | F8     | F8                                                    |
-| FN+9                | F9     | F9                                                    |
-| FN+0                | F10    | F10                                                   |
-| FN+-_               | F11    | F11                                                   |
-| FN+=+               | F12    | F12                                                   |
-| FN+T                | PrtSc  | Print Screen                                          |
-| FN+Y                | Scroll | Scroll                                                |                
-| FN+U                | Pause  | Pause                                                 |
+| Esc                 | Esc    | Esc                                                                   |
+| FN+Esc              | `      | Backtick                                                              |
+| FN+1                | F1     | F1                                                                    |
+| FN+2                | F2     | F2                                                                    |
+| FN+3                | F3     | F3                                                                    |
+| FN+4                | F4     | F4                                                                    |
+| FN+5                | F5     | F5                                                                    |
+| FN+6                | F6     | F6                                                                    |
+| FN+7                | F7     | F7                                                                    |
+| FN+8                | F8     | F8                                                                    |
+| FN+9                | F9     | F9                                                                    |
+| FN+0                | F10    | F10                                                                   |
+| FN+-_               | F11    | F11                                                                   |
+| FN+=+               | F12    | F12                                                                   |
+| FN+T                | PrtSc  | Print Screen                                                          |
+| FN+Y                | Scroll | Scroll                                                                |                
+| FN+U                | Pause  | Pause                                                                 |
 | &nbsp;              |        |
-| FN+G                | Ins    | Insert                                                |
-| FN+B                | Del    | Delete                                                |
-| FN+H                | Home   | Home                                                  |
-| FN+N                | End    | End                                                   |
-| FN+J                | PgUp   | Page Up                                               |
-| FN+M                | PgDn   | Page Down                                             |
+| FN+G                | Ins    | Insert                                                                |
+| FN+B                | Del    | Delete                                                                |
+| FN+H                | Home   | Home                                                                  |
+| FN+N                | End    | End                                                                   |
+| FN+J                | PgUp   | Page Up                                                               |
+| FN+M                | PgDn   | Page Down                                                             |
 | &nbsp;              |        |
-| FN+/?               | Up     | Up                                                    |
-| FN+App              | Down   | Down                                                  |
-| FN+RAlt             | Left   | Left                                                  |
-| FN+RCtrl            | Right  | Right                                                 |
+| FN+/?               | Up     | Up                                                                    |
+| FN+App              | Down   | Down                                                                  |
+| FN+RAlt             | Left   | Left                                                                  |
+| FN+RCtrl            | Right  | Right                                                                 |
 
 Download the [default layout](layouts/default-cidoo_qk61.layout.json)
