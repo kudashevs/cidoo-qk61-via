@@ -68,7 +68,6 @@ the FN key to be in a different position. As you can see in the first picture, t
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/c0fc3218-a72a-49c1-93d4-36235e8394be" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/0ca1d060-5079-4349-8c80-9cbbceb96716" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/fa06005f-574f-4ecc-a23f-2984e156d3e6" />
 </p>
 
 | Key/Key combination | Key    | Description                                                           |
@@ -121,7 +120,6 @@ this layout does not have the possibility to use the 3rd layer.
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/2fc8ac6d-b188-4eb8-b35a-b9f805448694" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/2685239b-414c-49c6-a2ff-a9a99da20c0b" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/01141259-29d8-4220-8c25-56cb4a538eee" />
 </p>
 
 | Key/Key combination | Key    | Description                                                           |
