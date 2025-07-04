@@ -110,3 +110,4 @@ the FN key to be in a different position. As you can see in the first picture th
 | FN+RCtrl              | Right                                                  |
 | --------------------- | ------------------------------------------------------ |
 
+Download the [default layout](layouts/default-cidoo_qk61.layout.json)
