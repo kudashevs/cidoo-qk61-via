@@ -219,7 +219,8 @@ but I would like to share it because it might be useful for someone who misses t
 | FN+J                | Down             | Down (Vim-like binding)                   |
 | FN+H                | Left             | Left (Vim-like binding)                   |
 | FN+L                | Right            | Right (Vim-like binding)                  |
-| Extended keys       |                  |                                           |
+| &nbsp;              |                  |                                           |
+| **Extended keys**   |                  |                                           |
 | RS+?/               | Up               | Up                                        |
 | RS+FN               | Down             | Down                                      |
 | RS+RAlt             | Left             | Left                                      |
