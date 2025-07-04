@@ -51,13 +51,13 @@ you will see CIDOO QK61 in the "Shown Keyboard Definition". Now, you can authori
 
 As you might know, I am a big fan of Vim. So, my personal layout is influenced by it. However, not all the mappings are Vim
 related and came from different sources. In this repository you will find to layout files:
-- default layout - the default keyboard's layout (in case something goes really bad)
+- [default layout](#default) - the default keyboard's layout (in case something goes really bad)
 
 
 **Warning:** I don't really care about RBGs, lighting and other light related stuff. Some light-related keys might be
 overwritten because I didn't pay much attention to those keys while I thought about remapping. 
 
-### Default layout
+<a id="default">### Default layout
 
 You can find the information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). However,
 in my case the layout was a little different from in the manual. In addition, it was a bit surprising for me because I expected
