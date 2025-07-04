@@ -119,7 +119,7 @@ this layout does not have the possibility to use the 3rd layer.
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/2fc8ac6d-b188-4eb8-b35a-b9f805448694" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/2685239b-414c-49c6-a2ff-a9a99da20c0b" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/13d8b6c7-d59f-4f2f-81a4-0893284f770a" />
 </p>
 
 | Key/Key combination | Key    | Description                                                           |
