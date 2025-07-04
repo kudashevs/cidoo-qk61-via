@@ -45,3 +45,13 @@ you will see CIDOO QK61 in the "Shown Keyboard Definition". Now, you can authori
 <p align="center">
 <img width="80%" alt="VIA Configure" src="https://github.com/user-attachments/assets/348068f9-39f5-47c8-9c1a-36476de36eb4" />
 </p>
+
+
+## Layouts
+
+As you might know, I am a big fan of Vim. So, my personal layout is influenced by it. However, not all the mappings are Vim
+related and came from different sources. In this repository you will find to layout files:
+- default layout - the default keyboard's layout (in case something goes really bad)
+
+**Warning:** I don't really care about RBGs, lighting and other light related stuff. Some light-related keys might be
+overwritten because I didn't pay much attention to those keys while I thought about remapping. 
