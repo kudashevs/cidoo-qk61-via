@@ -57,7 +57,7 @@ related and came from different sources. In this repository you will find to lay
 **Warning:** I don't really care about RBGs, lighting and other light related stuff. Some light-related keys might be
 overwritten because I didn't pay much attention to those keys while I thought about remapping. 
 
-<a id="default">### Default layout
+### <a id="default">Default layout
 
 You can find the information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). However,
 in my case the layout was a little different from in the manual. In addition, it was a bit surprising for me because I expected
