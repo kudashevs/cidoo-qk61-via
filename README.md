@@ -170,9 +170,9 @@ Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "D
 
 ### <a id="vim-like">Extended layout
 
-This is an extended layout which extends the Vim-like layout with the arrow keys in the 3rd layer. To enter the 3rd layer
-the very bottom right key is used - let's call it the Raise (RS) key. I personally don't use this layout, but I would like
-to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
+This is an extended layout which extends the Vim-like layout with some navigation keys (including the arrow keys) in the 3rd layer.
+To enter the 3rd layer the very bottom right key is used - let's call it the Raise (RS) key. I personally don't use this layout,
+but I would like to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/2612d122-9666-4def-a8d4-31f79aad85d7" />
