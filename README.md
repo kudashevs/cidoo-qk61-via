@@ -70,45 +70,45 @@ the FN key to be in a different position. As you can see in the first picture, t
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/0ca1d060-5079-4349-8c80-9cbbceb96716" />
 </p>
 
-| Key/Key combination | Key    | Description                                                           |
-|---------------------|--------|-----------------------------------------------------------------------|
-| FN+Z                |        | Toggle LOGO LED light mode                                            |
-| FN+X                |        | Toggle LOGO LED light color                                           |
-| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)                   |
-| FN+Backspace        |        | Reset the keyboard to the factory setting (different from the manual) |
-| &nbsp;              |        |                                                                       |
-| FN+A                |        | Windows System                                                        |
-| FN+S                |        | Mac System                                                            |
-| &nbsp;              |        |                                                                       |
-| Esc                 | Esc    | Esc                                                                   |
-| FN+Esc              | `      | Backtick                                                              |
-| FN+1                | F1     | F1                                                                    |
-| FN+2                | F2     | F2                                                                    |
-| FN+3                | F3     | F3                                                                    |
-| FN+4                | F4     | F4                                                                    |
-| FN+5                | F5     | F5                                                                    |
-| FN+6                | F6     | F6                                                                    |
-| FN+7                | F7     | F7                                                                    |
-| FN+8                | F8     | F8                                                                    |
-| FN+9                | F9     | F9                                                                    |
-| FN+0                | F10    | F10                                                                   |
-| FN+-_               | F11    | F11                                                                   |
-| FN+=+               | F12    | F12                                                                   |
-| FN+T                | PrtSc  | Print Screen                                                          |
-| FN+Y                | Scroll | Scroll                                                                |                
-| FN+U                | Pause  | Pause                                                                 |
-| &nbsp;              |        |                                                                       | 
-| FN+G                | Ins    | Insert                                                                |
-| FN+B                | Del    | Delete                                                                |
-| FN+H                | Home   | Home                                                                  |
-| FN+N                | End    | End                                                                   |
-| FN+J                | PgUp   | Page Up                                                               |
-| FN+M                | PgDn   | Page Down                                                             |
-| &nbsp;              |        |                                                                       |
-| FN+/?               | Up     | Up                                                                    |
-| FN+App              | Down   | Down                                                                  |
-| FN+RAlt             | Left   | Left                                                                  |
-| FN+RCtrl            | Right  | Right                                                                 |
+| Key/Key combination | Key              | Description                                                           |
+|---------------------|------------------|-----------------------------------------------------------------------|
+| FN+Z                |                  | Toggle LOGO LED light mode                                            |
+| FN+X                |                  | Toggle LOGO LED light color                                           |
+| FN+Space            |                  | Toggle ON/OFF Backlight (different from the manual)                   |
+| FN+Backspace        |                  | Reset the keyboard to the factory setting (different from the manual) |
+| &nbsp;              |                  |                                                                       |
+| FN+A                |                  | Windows System                                                        |
+| FN+S                |                  | Mac System                                                            |
+| <img width=200/>    | <img width=200/> | <img width=550 />                                                     |
+| Esc                 | Esc              | Esc                                                                   |
+| FN+Esc              | `                | Backtick                                                              |
+| FN+1                | F1               | F1                                                                    |
+| FN+2                | F2               | F2                                                                    |
+| FN+3                | F3               | F3                                                                    |
+| FN+4                | F4               | F4                                                                    |
+| FN+5                | F5               | F5                                                                    |
+| FN+6                | F6               | F6                                                                    |
+| FN+7                | F7               | F7                                                                    |
+| FN+8                | F8               | F8                                                                    |
+| FN+9                | F9               | F9                                                                    |
+| FN+0                | F10              | F10                                                                   |
+| FN+-_               | F11              | F11                                                                   |
+| FN+=+               | F12              | F12                                                                   |
+| FN+T                | PrtSc            | Print Screen                                                          |
+| FN+Y                | Scroll           | Scroll                                                                |                
+| FN+U                | Pause            | Pause                                                                 |
+| &nbsp;              |                  |                                                                       | 
+| FN+G                | Ins              | Insert                                                                |
+| FN+B                | Del              | Delete                                                                |
+| FN+H                | Home             | Home                                                                  |
+| FN+N                | End              | End                                                                   |
+| FN+J                | PgUp             | Page Up                                                               |
+| FN+M                | PgDn             | Page Down                                                             |
+| &nbsp;              |                  |                                                                       |
+| FN+/?               | Up               | Up                                                                    |
+| FN+App              | Down             | Down                                                                  |
+| FN+RAlt             | Left             | Left                                                                  |
+| FN+RCtrl            | Right            | Right                                                                 |
 
 Download the [default layout](layouts/default-cidoo_qk61.layout.json) - use "Download as raw file".
 
@@ -122,47 +122,47 @@ this layout does not have the possibility to use the 3rd layer.
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/13d8b6c7-d59f-4f2f-81a4-0893284f770a" />
 </p>
 
-| Key/Key combination | Key    | Description                                                           |
-|---------------------|--------|-----------------------------------------------------------------------|
-| FN+[                |        | Toggle LOGO LED light mode                                            |
-| FN+]                |        | Toggle LOGO LED light color                                           |
-| FN+Space            |        | Toggle ON/OFF Backlight                                               |
-| FN+Backspace        |        | Reset the keyboard to the factory setting                             |
-| &nbsp;              |        |                                                                       |
-| -                   |        | Windows System (I don't need it)                                      |
-| -                   |        | Mac System (I don't need it)                                          |
-| &nbsp;              |        |                                                                       |
-| CapsLock            | Esc    | Esc                                                                   |
-| FN+Esc              | Esc    | Esc                                                                   |
-| Esc                 | `      | Backtick                                                              |
-| FN+1                | F1     | F1                                                                    |
-| FN+2                | F2     | F2                                                                    |
-| FN+3                | F3     | F3                                                                    |
-| FN+4                | F4     | F4                                                                    |
-| FN+5                | F5     | F5                                                                    |
-| FN+6                | F6     | F6                                                                    |
-| FN+7                | F7     | F7                                                                    |
-| FN+8                | F8     | F8                                                                    |
-| FN+9                | F9     | F9                                                                    |
-| FN+0                | F10    | F10                                                                   |
-| FN+-_               | F11    | F11                                                                   |
-| FN+=+               | F12    | F12                                                                   |
-| FN+T                | PrtSc  | Print Screen                                                          |
-| FN+Y                | Scroll | Scroll                                                                |                
-| FN+U                | Pause  | Pause                                                                 |
-| &nbsp;              |        |                                                                       |
-| FN+I                | Ins    | Insert (Vim-like and semantic binding)                                |
-| FN+D                | Del    | Delete (semantic binding)                                             |
-| FN+X                | Del    | Delete (Vim-like binding)                                             |
-| FN+M                | Home   | Home                                                                  |
-| FN+N                | End    | End                                                                   |
-| FN+B                | PgUp   | Page Up (Vim-like binding)                                            |
-| FN+F                | PgDn   | Page Down (Vim-like binding)                                          |
-| &nbsp;              |        |                                                                       |
-| FN+K                | Up     | Up (Vim-like binding)                                                 |
-| FN+J                | Down   | Down (Vim-like binding)                                               |
-| FN+H                | Left   | Left (Vim-like binding)                                               |
-| FN+L                | Right  | Right (Vim-like binding)                                              |
+| Key/Key combination | Key              | Description                               |
+|---------------------|------------------|-------------------------------------------|
+| FN+[                |                  | Toggle LOGO LED light mode                |
+| FN+]                |                  | Toggle LOGO LED light color               |
+| FN+Space            |                  | Toggle ON/OFF Backlight                   |
+| FN+Backspace        |                  | Reset the keyboard to the factory setting |
+| &nbsp;              |                  |                                           |
+| -                   |                  | Windows System (I don't need it)          |
+| -                   |                  | Mac System (I don't need it)              |
+| <img width=200/>    | <img width=200/> | <img width=550 />                         |
+| CapsLock            | Esc              | Esc                                       |
+| FN+Esc              | Esc              | Esc                                       |
+| Esc                 | `                | Backtick                                  |
+| FN+1                | F1               | F1                                        |
+| FN+2                | F2               | F2                                        |
+| FN+3                | F3               | F3                                        |
+| FN+4                | F4               | F4                                        |
+| FN+5                | F5               | F5                                        |
+| FN+6                | F6               | F6                                        |
+| FN+7                | F7               | F7                                        |
+| FN+8                | F8               | F8                                        |
+| FN+9                | F9               | F9                                        |
+| FN+0                | F10              | F10                                       |
+| FN+-_               | F11              | F11                                       |
+| FN+=+               | F12              | F12                                       |
+| FN+T                | PrtSc            | Print Screen                              |
+| FN+Y                | Scroll           | Scroll                                    |                
+| FN+U                | Pause            | Pause                                     |
+| &nbsp;              |                  |                                           |
+| FN+I                | Ins              | Insert (Vim-like and semantic binding)    |
+| FN+D                | Del              | Delete (semantic binding)                 |
+| FN+X                | Del              | Delete (Vim-like binding)                 |
+| FN+M                | Home             | Home                                      |
+| FN+N                | End              | End                                       |
+| FN+B                | PgUp             | Page Up (Vim-like binding)                |
+| FN+F                | PgDn             | Page Down (Vim-like binding)              |
+| &nbsp;              |                  |                                           |
+| FN+K                | Up               | Up (Vim-like binding)                     |
+| FN+J                | Down             | Down (Vim-like binding)                   |
+| FN+H                | Left             | Left (Vim-like binding)                   |
+| FN+L                | Right            | Right (Vim-like binding)                  |
 
 Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
 
@@ -178,55 +178,55 @@ but I would like to share it because it might be useful for someone who misses t
 <img alt="Layer 3" src="https://github.com/user-attachments/assets/061918d0-8dae-492a-ac22-a25d6a6792fc" />
 </p>
 
-| Key/Key combination | Key    | Description                                                           |
-|---------------------|--------|-----------------------------------------------------------------------|
-| FN+[                |        | Toggle LOGO LED light mode                                            |
-| FN+]                |        | Toggle LOGO LED light color                                           |
-| FN+Space            |        | Toggle ON/OFF Backlight                                               |
-| FN+Backspace        |        | Reset the keyboard to the factory setting                             |
-| &nbsp;              |        |                                                                       |
-| -                   |        | Windows System (I don't need it)                                      |
-| -                   |        | Mac System (I don't need it)                                          |
-| &nbsp;              |        |
-| CapsLock            | Esc    | Esc                                                                   |
-| FN+Esc              | Esc    | Esc                                                                   |
-| Esc                 | `      | Backtick                                                              |
-| FN+1                | F1     | F1                                                                    |
-| FN+2                | F2     | F2                                                                    |
-| FN+3                | F3     | F3                                                                    |
-| FN+4                | F4     | F4                                                                    |
-| FN+5                | F5     | F5                                                                    |
-| FN+6                | F6     | F6                                                                    |
-| FN+7                | F7     | F7                                                                    |
-| FN+8                | F8     | F8                                                                    |
-| FN+9                | F9     | F9                                                                    |
-| FN+0                | F10    | F10                                                                   |
-| FN+-_               | F11    | F11                                                                   |
-| FN+=+               | F12    | F12                                                                   |
-| FN+T                | PrtSc  | Print Screen                                                          |
-| FN+Y                | Scroll | Scroll                                                                |                
-| FN+U                | Pause  | Pause                                                                 |
-| &nbsp;              |        |
-| FN+I                | Ins    | Insert (Vim-like and semantic binding)                                |
-| FN+D                | Del    | Delete (semantic binding)                                             |
-| FN+X                | Del    | Delete (Vim-like binding)                                             |
-| FN+M                | Home   | Home                                                                  |
-| FN+N                | End    | End                                                                   |
-| FN+B                | PgUp   | Page Up (Vim-like binding)                                            |
-| FN+F                | PgDn   | Page Down (Vim-like binding)                                          |
-| &nbsp;              |        |
-| FN+K                | Up     | Up (Vim-like binding)                                                 |
-| FN+J                | Down   | Down (Vim-like binding)                                               |
-| FN+H                | Left   | Left (Vim-like binding)                                               |
-| FN+L                | Right  | Right (Vim-like binding)                                              |
-| Extended keys       |        |
-| RS+?/               | Up     | Up                                                                    |
-| RS+FN               | Down   | Down                                                                  |
-| RS+RAlt             | Left   | Left                                                                  |
-| RS+RApp             | Right  | Right                                                                 |
-| RS+<,               | Home   | Home                                                                  |
-| RS+>.               | PgUp   | Page Up                                                               |
-| RS+RShift           | PgDn   | Page Down                                                             |
-| RS+M                | Mute   | Mute                                                                  |
+| Key/Key combination | Key              | Description                               |
+|---------------------|------------------|-------------------------------------------|
+| FN+[                |                  | Toggle LOGO LED light mode                |
+| FN+]                |                  | Toggle LOGO LED light color               |
+| FN+Space            |                  | Toggle ON/OFF Backlight                   |
+| FN+Backspace        |                  | Reset the keyboard to the factory setting |
+| <img width=200/>    | <img width=200/> | <img width=550 />                         |
+| -                   |                  | Windows System (I don't need it)          |
+| -                   |                  | Mac System (I don't need it)              |
+| &nbsp;              |                  |                                           |
+| CapsLock            | Esc              | Esc                                       |
+| FN+Esc              | Esc              | Esc                                       |
+| Esc                 | `                | Backtick                                  |
+| FN+1                | F1               | F1                                        |
+| FN+2                | F2               | F2                                        |
+| FN+3                | F3               | F3                                        |
+| FN+4                | F4               | F4                                        |
+| FN+5                | F5               | F5                                        |
+| FN+6                | F6               | F6                                        |
+| FN+7                | F7               | F7                                        |
+| FN+8                | F8               | F8                                        |
+| FN+9                | F9               | F9                                        |
+| FN+0                | F10              | F10                                       |
+| FN+-_               | F11              | F11                                       |
+| FN+=+               | F12              | F12                                       |
+| FN+T                | PrtSc            | Print Screen                              |
+| FN+Y                | Scroll           | Scroll                                    |                
+| FN+U                | Pause            | Pause                                     |
+| &nbsp;              |                  |                                           |
+| FN+I                | Ins              | Insert (Vim-like and semantic binding)    |
+| FN+D                | Del              | Delete (semantic binding)                 |
+| FN+X                | Del              | Delete (Vim-like binding)                 |
+| FN+M                | Home             | Home                                      |
+| FN+N                | End              | End                                       |
+| FN+B                | PgUp             | Page Up (Vim-like binding)                |
+| FN+F                | PgDn             | Page Down (Vim-like binding)              |
+| &nbsp;              |                  |                                           |
+| FN+K                | Up               | Up (Vim-like binding)                     |
+| FN+J                | Down             | Down (Vim-like binding)                   |
+| FN+H                | Left             | Left (Vim-like binding)                   |
+| FN+L                | Right            | Right (Vim-like binding)                  |
+| Extended keys       |                  |                                           |
+| RS+?/               | Up               | Up                                        |
+| RS+FN               | Down             | Down                                      |
+| RS+RAlt             | Left             | Left                                      |
+| RS+RApp             | Right            | Right                                     |
+| RS+<,               | Home             | Home                                      |
+| RS+>.               | PgUp             | Page Up                                   |
+| RS+RShift           | PgDn             | Page Down                                 |
+| RS+M                | Mute             | Mute                                      |
 
 Download the [extended layout](layouts/extended-cidoo_qk61.layout.json) - use "Download as raw file".
