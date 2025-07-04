@@ -12,7 +12,7 @@ Open Chrome browser, type `chrome://usb-internals` and open the "Devices" tab. T
 Product ID (PID). These IDs are important to know because they are used in VIA definition files and [VIA uses them](https://caniusevia.com/docs/specification/)
 to identify the keyboard when it is plugged in. If a definition file doesn't work, you can open it and check these IDs.
 
-<img alt="Image" src="https://github.com/user-attachments/assets/f8d78b11-1f88-464f-9c5e-6d5c749cceb4" />
+<img alt="USB internals" src="https://github.com/user-attachments/assets/f8d78b11-1f88-464f-9c5e-6d5c749cceb4" />
 
 **Warning:** Make sure that the Vendor and Product IDs of your keyboard are identical to the presented ones.
 
