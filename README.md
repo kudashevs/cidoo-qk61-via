@@ -52,6 +52,7 @@ you will see CIDOO QK61 in the "Shown Keyboard Definition". Now, you can authori
 As you might know, I am a big fan of Vim. So, my personal layout is influenced by it. However, not all the mappings are Vim
 related and came from different sources. In this repository you will find to layout files:
 - [default layout](#default) - the default keyboard's layout (in case something goes really bad)
+- [Vim-like layout](#vim-like) - this is my layout which is heavily influenced by Vim
 
 
 **Warning:** I don't really care about RBGs, lighting and other light related stuff. Some light-related keys might be
@@ -110,3 +111,50 @@ the FN key to be in a different position. As you can see in the first picture th
 | FN+RCtrl            | Right  | Right                                                                 |
 
 Download the [default layout](layouts/default-cidoo_qk61.layout.json)
+
+### <a id="vim-like">Vim-like layout
+
+This is my personal layout which I use one every day basis. Pay attention that I remapped CapsLock to Esc. In addition,
+this layout does not have the possibility to use the 3rd layer.
+
+| Key/Key combination | Key    | Description                                                           |
+|---------------------|--------|-----------------------------------------------------------------------|
+| FN+[                |        | Toggle LOGO LED light mode                                            |
+| FN+]                |        | Toggle LOGO LED light color                                           |
+| FN+Space            |        | Toggle ON/OFF Backlight (different from the manual)                   |
+| FN+Backspace        |        | Reset the keyboard to the factory setting (different from the manual) |
+| &nbsp;              |        |                                                                       |
+| -                   |        | Windows System (I don't need it)                                      |
+| -                   |        | Mac System (I don't need it)                                          |
+| &nbsp;              |        |
+| CapsLock            | Esc    | Esc                                                                   |
+| FN+Esc              | Esc    | Esc                                                                   |
+| Esc                 | `      | Backtick                                                              |
+| FN+1                | F1     | F1                                                                    |
+| FN+2                | F2     | F2                                                                    |
+| FN+3                | F3     | F3                                                                    |
+| FN+4                | F4     | F4                                                                    |
+| FN+5                | F5     | F5                                                                    |
+| FN+6                | F6     | F6                                                                    |
+| FN+7                | F7     | F7                                                                    |
+| FN+8                | F8     | F8                                                                    |
+| FN+9                | F9     | F9                                                                    |
+| FN+0                | F10    | F10                                                                   |
+| FN+-_               | F11    | F11                                                                   |
+| FN+=+               | F12    | F12                                                                   |
+| FN+T                | PrtSc  | Print Screen                                                          |
+| FN+Y                | Scroll | Scroll                                                                |                
+| FN+U                | Pause  | Pause                                                                 |
+| &nbsp;              |        |
+| FN+I                | Ins    | Insert (Vim-like and semantic binding)                                |
+| FN+D                | Del    | Delete (semantic binding)                                             |
+| FN+X                | Del    | Delete (Vim-like binding)                                             |
+| FN+M                | Home   | Home                                                                  |
+| FN+N                | End    | End                                                                   |
+| FN+B                | PgUp   | Page Up (Vim-like binding)                                            |
+| FN+F                | PgDn   | Page Down (Vim-like binding)                                          |
+| &nbsp;              |        |
+| FN+K                | Up     | Up (Vim-like binding)                                                 |
+| FN+J                | Down   | Down (Vim-like binding)                                               |
+| FN+H                | Left   | Left (Vim-like binding)                                               |
+| FN+L                | Right  | Right (Vim-like binding)                                              |
