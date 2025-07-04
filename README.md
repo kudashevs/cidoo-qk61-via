@@ -114,7 +114,7 @@ Download the [default layout](layouts/default-cidoo_qk61.layout.json)
 
 ### <a id="vim-like">Vim-like layout
 
-This is my personal layout which I use one every day basis. Pay attention that I remapped CapsLock to Esc. In addition,
+This is my personal layout which I use on every day basis. Pay attention that I remapped CapsLock to Esc. In addition,
 this layout does not have the possibility to use the 3rd layer.
 
 <p align="center">
