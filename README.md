@@ -119,9 +119,9 @@ To enter the 3rd layer the very bottom right key is used - let's call it the Rai
 but I would like to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/cf26e6b4-a529-4453-a7f2-44ecd0a6f5c6" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/4ba42cac-308a-4dac-a54b-b92a945847e6" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/c40c1866-3c61-4dfd-871b-b195fa598176" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/80a15c15-eb6b-4be6-a3d4-927de0700048" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/d8a13bdb-88d3-4ed6-8a48-23a68c38c5db" />
 </p>
 
 | Key/Key combination | Key              | Description                               |
