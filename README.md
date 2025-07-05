@@ -49,12 +49,11 @@ you will see CIDOO QK61 in the "Shown Keyboard Definition". Now, you can authori
 
 ## Layouts
 
-As you might know, I am a big fan of Vim. So, my personal layout is influenced by it. However, not all the mappings are Vim
-related and come from different sources. In this repository you will find the following layout files:
-- [default layout](#default) - the default keyboard layout (in case something goes bad)
+As you might know, I am a big fan of Vim. So, my personal layout is influenced by it. However, not all the mappings are
+Vim related (I compiled them from different sources). In this repository you will find the following layout files:
 - [Vim-like layout](#vim-like) - this is my layout which is heavily influenced by Vim
 - [extended layout](#extended) - this is an extended layout for those who miss the arrow keys
-
+- [default layout](#default) - the default keyboard layout (in case something goes bad and you )
 
 **Warning:** I don't really care about RBGs, lighting and other light-related stuff. Some light-related keys might be
 overwritten because I didn't pay much attention to those keys while I thought about remapping. 
