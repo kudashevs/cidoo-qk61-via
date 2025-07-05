@@ -64,7 +64,7 @@ This is my personal layout which I use on an everyday basis. Pay attention that 
 this layout does not have the possibility to use the 3rd layer.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/816cc37b-41d5-4ebe-a2fe-e3fd871a15ef" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/2ec72678-c849-4503-a8b3-def435be4635" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/10cf8a8d-4b2a-4660-9ab6-e4be03695fd9" />
 </p>
 
