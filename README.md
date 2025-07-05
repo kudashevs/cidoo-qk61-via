@@ -1,4 +1,4 @@
-# CIDOO QK61 Layout
+# CIDOO QK61 VIA Layouts
 
 This repo contains my personal layout files for the CIDOO QK61 V2 keyboard and some useful links to get started.
 
