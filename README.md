@@ -112,7 +112,7 @@ this layout does not have the possibility to use the 3rd layer.
 
 Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
 
-### <a id="vim-like">Extended layout
+### <a id="extended">Extended layout
 
 This is an extended layout which extends the Vim-like layout with some navigation keys (including the arrow keys) in the 3rd layer.
 To enter the 3rd layer the very bottom right key is used - let's call it the Raise (RS) key. I personally don't use this layout,
