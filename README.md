@@ -58,59 +58,6 @@ Vim related (I compiled them from different sources). In this repository you wil
 **Warning:** I don't really care about RBGs, lighting and other light-related stuff. Some light-related keys might be
 overwritten because I didn't pay much attention to those keys while I thought about remapping. 
 
-### <a id="default">Default layout
-
-You can find information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). In my case,
-the layout was a little different from what is in the manual. In addition, it was a bit surprising for me because I expected
-the FN key to be in a different position. As you can see in the first picture, the FN key is on the very bottom right.
-
-<p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/c0fc3218-a72a-49c1-93d4-36235e8394be" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/0ca1d060-5079-4349-8c80-9cbbceb96716" />
-</p>
-
-| Key/Key combination | Key              | Description                                                           |
-|---------------------|------------------|-----------------------------------------------------------------------|
-| FN+Z                |                  | Toggle LOGO LED light mode                                            |
-| FN+X                |                  | Toggle LOGO LED light color                                           |
-| FN+Space            |                  | Toggle ON/OFF Backlight (different from the manual)                   |
-| FN+Backspace        |                  | Reset the keyboard to the factory setting (different from the manual) |
-| &nbsp;              |                  |                                                                       |
-| FN+A                |                  | Windows System                                                        |
-| FN+S                |                  | Mac System                                                            |
-| <img width=200/>    | <img width=200/> | <img width=550 />                                                     |
-| Esc                 | Esc              | Esc                                                                   |
-| FN+Esc              | `                | Backtick                                                              |
-| FN+1                | F1               | F1                                                                    |
-| FN+2                | F2               | F2                                                                    |
-| FN+3                | F3               | F3                                                                    |
-| FN+4                | F4               | F4                                                                    |
-| FN+5                | F5               | F5                                                                    |
-| FN+6                | F6               | F6                                                                    |
-| FN+7                | F7               | F7                                                                    |
-| FN+8                | F8               | F8                                                                    |
-| FN+9                | F9               | F9                                                                    |
-| FN+0                | F10              | F10                                                                   |
-| FN+-_               | F11              | F11                                                                   |
-| FN+=+               | F12              | F12                                                                   |
-| FN+T                | PrtSc            | Print Screen                                                          |
-| FN+Y                | Scroll           | Scroll                                                                |                
-| FN+U                | Pause            | Pause                                                                 |
-| &nbsp;              |                  |                                                                       | 
-| FN+G                | Ins              | Insert                                                                |
-| FN+B                | Del              | Delete                                                                |
-| FN+H                | Home             | Home                                                                  |
-| FN+N                | End              | End                                                                   |
-| FN+J                | PgUp             | Page Up                                                               |
-| FN+M                | PgDn             | Page Down                                                             |
-| &nbsp;              |                  |                                                                       |
-| FN+/?               | Up               | Up                                                                    |
-| FN+App              | Down             | Down                                                                  |
-| FN+RAlt             | Left             | Left                                                                  |
-| FN+RCtrl            | Right            | Right                                                                 |
-
-Download the [default layout](layouts/default-cidoo_qk61.layout.json) - use "Download as raw file".
-
 ### <a id="vim-like">Vim-like layout
 
 This is my personal layout which I use on an everyday basis. Pay attention that I remapped CapsLock to Esc. In addition,
@@ -230,3 +177,56 @@ but I would like to share it because it might be useful for someone who misses t
 | RS+M                | Mute             | Mute                                      |
 
 Download the [extended layout](layouts/extended-cidoo_qk61.layout.json) - use "Download as raw file".
+
+### <a id="default">Default layout
+
+You can find information about the default layout in [the manual](https://epomaker.com/blogs/manuals/cidoo-qk61-manual). In my case,
+the layout was a little different from what is in the manual. In addition, it was a bit surprising for me because I expected
+the FN key to be in a different position. As you can see in the first picture, the FN key is on the very bottom right.
+
+<p align="center">
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/c0fc3218-a72a-49c1-93d4-36235e8394be" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/0ca1d060-5079-4349-8c80-9cbbceb96716" />
+</p>
+
+| Key/Key combination | Key              | Description                                                           |
+|---------------------|------------------|-----------------------------------------------------------------------|
+| FN+Z                |                  | Toggle LOGO LED light mode                                            |
+| FN+X                |                  | Toggle LOGO LED light color                                           |
+| FN+Space            |                  | Toggle ON/OFF Backlight (different from the manual)                   |
+| FN+Backspace        |                  | Reset the keyboard to the factory setting (different from the manual) |
+| &nbsp;              |                  |                                                                       |
+| FN+A                |                  | Windows System                                                        |
+| FN+S                |                  | Mac System                                                            |
+| <img width=200/>    | <img width=200/> | <img width=550 />                                                     |
+| Esc                 | Esc              | Esc                                                                   |
+| FN+Esc              | `                | Backtick                                                              |
+| FN+1                | F1               | F1                                                                    |
+| FN+2                | F2               | F2                                                                    |
+| FN+3                | F3               | F3                                                                    |
+| FN+4                | F4               | F4                                                                    |
+| FN+5                | F5               | F5                                                                    |
+| FN+6                | F6               | F6                                                                    |
+| FN+7                | F7               | F7                                                                    |
+| FN+8                | F8               | F8                                                                    |
+| FN+9                | F9               | F9                                                                    |
+| FN+0                | F10              | F10                                                                   |
+| FN+-_               | F11              | F11                                                                   |
+| FN+=+               | F12              | F12                                                                   |
+| FN+T                | PrtSc            | Print Screen                                                          |
+| FN+Y                | Scroll           | Scroll                                                                |                
+| FN+U                | Pause            | Pause                                                                 |
+| &nbsp;              |                  |                                                                       | 
+| FN+G                | Ins              | Insert                                                                |
+| FN+B                | Del              | Delete                                                                |
+| FN+H                | Home             | Home                                                                  |
+| FN+N                | End              | End                                                                   |
+| FN+J                | PgUp             | Page Up                                                               |
+| FN+M                | PgDn             | Page Down                                                             |
+| &nbsp;              |                  |                                                                       |
+| FN+/?               | Up               | Up                                                                    |
+| FN+App              | Down             | Down                                                                  |
+| FN+RAlt             | Left             | Left                                                                  |
+| FN+RCtrl            | Right            | Right                                                                 |
+
+Download the [default layout](layouts/default-cidoo_qk61.layout.json) - use "Download as raw file".
