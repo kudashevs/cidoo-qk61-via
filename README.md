@@ -5,8 +5,8 @@ This repo contains my personal layout files for the CIDOO QK61 V2 keyboard and s
 
 ## Before you start
 
-Before using the layout files from this repo, make sure your keyboard has the same Vendor ID and Product ID as listed here.
-There are different ways to do it. I would recommend using the Chrome browser because this is the easiest one.
+Before using the layout files, make sure your keyboard has the same *Vendor ID* and *Product ID*. There are different
+ways to check these values. I would recommend using the Chrome browser because this is the easiest one.
 
 Open Chrome browser, type `chrome://usb-internals` and open the "Devices" tab. There you will see a Vendor ID (VID) and
 Product ID (PID). These IDs are important because they are used in VIA definition files and [VIA uses them](https://caniusevia.com/docs/specification/#vendor--product-id)
