@@ -4,7 +4,7 @@
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
-      "KC_GRV",
+      "KC_GESC",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -52,7 +52,7 @@
       "KC_BSLS",
       "KC_NO",
       "KC_NO",
-      "KC_ESC",
+      "LT(2,KC_ESC)",
       "KC_A",
       "KC_S",
       "KC_D",
@@ -200,7 +200,7 @@
       "KC_NO"
     ],
     [
-      "KC_GESC",
+      "KC_GRV",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -248,7 +248,7 @@
       "RGB_MOD",
       "KC_NO",
       "KC_NO",
-      "KC_ESC",
+      "KC_NO",
       "KC_A",
       "KC_S",
       "KC_DEL",
