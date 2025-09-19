@@ -61,8 +61,8 @@ This is my personal layout which I use on the everyday basis. Pay attention that
 the Esc key or FN key in combinations). This exact layout doesn't use the 3rd layer.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/2ec72678-c849-4503-a8b3-def435be4635" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/10cf8a8d-4b2a-4660-9ab6-e4be03695fd9" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/8c93579b-4311-4720-826a-6041f2028bad" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/e231e1cf-cccb-4804-9c88-4b21543efbc9" />
 </p>
 
 | Key/Key combination | Key              | Description                                |
@@ -115,9 +115,9 @@ To enter the 3rd layer press the very bottom right key - let's call it the Raise
 but I would like to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/4ba42cac-308a-4dac-a54b-b92a945847e6" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/c40c1866-3c61-4dfd-871b-b195fa598176" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/d8a13bdb-88d3-4ed6-8a48-23a68c38c5db" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/fe47a9a0-5666-4c63-a9a1-c7786c49e2fd" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/d8d1d2a1-6c38-4f71-9d18-c79bef676ce4" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/a8695afe-1b19-4371-a136-aa531ae97c30" />
 </p>
 
 | Key/Key combination | Key              | Description                                |
