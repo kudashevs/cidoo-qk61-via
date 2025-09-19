@@ -53,8 +53,7 @@ Vim related (I compiled them from different sources). In this repository you wil
 - [extended layout](#extended) - this is an extended layout for those who miss the arrow keys
 - [default layout](#default) - the default keyboard layout (in case something goes bad and you )
 
-**Warning:** I don't really care about RGBs, lighting and other light-related stuff. Some light-related keys might be
-overwritten because I didn't pay much attention to those keys while I thought about remapping. 
+**Warning:** I don't really care about RGBs. So, some light-related keys might be overwritten because I don't pay much attention to them.
 
 ### <a id="vim-like">Vim-like layout
 
