@@ -108,14 +108,16 @@ Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "D
 
 ### <a id="extended">Extended layout
 
-This is an extended layout which extends the Vim-like layout with some navigation keys (including the arrow keys) in the 3rd layer.
-To enter the 3rd layer press the very bottom right key - let's call it the Raise (RS) key. I personally don't use this layout,
-but I would like to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
+This is an extended layout which is build upon the Vim-like layout with some additional and navigation keys (including
+the arrow keys) in the 3rd layer. This layout consists of 3 layers: the `Base layer`, the `Function layer`, and the
+`Media/RGB layer`. To use the `Media/RGB layer`, hold the Right Function (RFN) key (the very bottom right key on a keeb).
+I personally don't use this layout, but I would like to share it because it might be useful for someone who wants
+more control over their keyboard's media buttons and who misses the arrow keys.
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/bee7229b-29d5-43cc-86a5-dcf45e65bd00" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/beafb89c-dd9c-4527-89a6-85d878d609ba" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/206ce77f-03a9-453d-a220-aebd3611e99d" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/97b784d4-ab02-4df7-892a-ed5c0a7e59e5" />
 </p>
 
 | Key/Key combination | Key              | Description                                |
@@ -137,37 +139,60 @@ but I would like to share it because it might be useful for someone who misses t
 | FN+0                | F10              | F10                                        |
 | FN+-_               | F11              | F11                                        |
 | FN+=+               | F12              | F12                                        |
+| &nbsp;              |                  |                                            |
 | FN+T                | PrtSc            | Print Screen                               |
 | FN+Y                | Scroll           | Scroll                                     |                
 | FN+U                | Pause            | Pause                                      |
-| &nbsp;              |                  |                                            |
 | FN+I                | Ins              | Insert (Vim-like and semantic binding)     |
-| FN+D                | Del              | Delete (semantic binding)                  |
-| FN+X                | Del              | Delete (Vim-like binding)                  |
-| FN+M                | Home             | Home                                       |
-| FN+N                | End              | End                                        |
-| FN+B                | PgUp             | Page Up (Vim-like binding)                 |
-| FN+F                | PgDn             | Page Down (Vim-like binding)               |
 | &nbsp;              |                  |                                            |
-| FN+K                | Up               | Up (Vim-like binding)                      |
-| FN+J                | Down             | Down (Vim-like binding)                    |
+| FN+D                | Del              | Delete (semantic binding)                  |
+| FN+F                | PgDn             | Page Down (Vim-like binding)               |
 | FN+H                | Left             | Left (Vim-like binding)                    |
+| FN+J                | Down             | Down (Vim-like binding)                    |
+| FN+K                | Up               | Up (Vim-like binding)                      |
 | FN+L                | Right            | Right (Vim-like binding)                   |
 | &nbsp;              |                  |                                            |
-| FN+[                |                  | Toggle LOGO LED light mode                 |
-| FN+]                |                  | Toggle LOGO LED light color                |
-| FN+Space            |                  | Toggle ON/OFF Backlight                    |
-| FN+Backspace        |                  | Reset the keyboard to the factory settings |
-| &nbsp;              |                  |                                            |
+| FN+X                | Del              | Delete (Vim-like binding)                  |
+| FN+B                | PgUp             | Page Up (Vim-like binding)                 |
+| FN+M                | Home             | Home                                       |
+| FN+N                | End              | End                                        |
+| FN+RShift           | -                | Query Battery Status                       |
 | **Extended keys**   |                  |                                            |
-| RS+?/               | Up               | Up                                         |
-| RS+FN               | Down             | Down                                       |
-| RS+RAlt             | Left             | Left                                       |
-| RS+RApp             | Right            | Right                                      |
-| RS+<,               | Home             | Home                                       |
-| RS+>.               | PgUp             | Page Up                                    |
-| RS+RShift           | PgDn             | Page Down                                  |
-| RS+M                | Mute             | Mute                                       |
+| RFN+7               | -                | Prev Media                                 |
+| RFN+8               | -                | Play Media                                 |
+| RFN+9               | -                | Next Media                                 |
+| RFN+0               | -                | Mute                                       |
+| RFN+-_              | -                | Volume Down                                |
+| RFN+=+              | -                | Volume Up                                  |
+| RFN+Backspace       |                  | Reset the keyboard to the factory settings |
+| &nbsp;              |                  |                                            |
+| RFN+T               | PrtSc            | Print Screen                               |
+| RFN+Y               | Scroll           | Scroll                                     |                
+| RFN+U               | Pause            | Pause                                      |
+| RFN+O               | -                | RGB Effects Speed Down                     |
+| RFN+P               | -                | RGB Effects Speed Up                       |
+| RFN+[               | -                | Brightness Down                            |
+| RFN+]               | -                | Brightness Up                              |
+| RFN+\|              | -                | Switch RGB Mode                            |
+| &nbsp;              |                  |                                            |
+| RFN+;:              | -                | Light Hue Down                             |
+| RFN+'"              | -                | Light Hue Up                               |
+| &nbsp;              |                  |                                            |
+| RFN+Z               | -                | Light Mode                                 |
+| RFN+x               | -                | Light Hue                                  |
+| RFN+C               | -                | Light Saturation Down                      |
+| RFN+V               | -                | Light Saturation Up                        |
+| RFN+N               | -                | Volume Down                                |
+| RFN+M               | -                | Mute                                       |
+| RFN+<,              | -                | Volume Up                                  |
+| RFN+>.              | PgUp             | Page Up                                    |
+| RFN+?/              | Up               | Up                                         |
+| RFN+RShift          | PgDn             | Page Down                                  |
+| &nbsp;              |                  |                                            |
+| RFN+Space           |                  | Toggle ON/OFF Backlight                    |
+| RFN+RAlt            | Left             | Left                                       |
+| RFN+RApp            | Down             | Down                                       |
+| RFN+RCtrl           | Right            | Right                                      |
 
 Download the [extended layout](layouts/extended-cidoo_qk61.layout.json) - use "Download as raw file".
 
@@ -199,16 +224,7 @@ the FN key to be in a different position. As you can see in the first picture, t
 | FN+0                | F10              | F10                                                                  |
 | FN+-_               | F11              | F11                                                                  |
 | FN+=+               | F12              | F12                                                                  |
-| FN+T                | PrtSc            | Print Screen                                                         |
-| FN+Y                | Scroll           | Scroll                                                               |                
-| FN+U                | Pause            | Pause                                                                |
-| &nbsp;              |                  |                                                                      | 
-| FN+G                | Ins              | Insert                                                               |
-| FN+B                | Del              | Delete                                                               |
-| FN+H                | Home             | Home                                                                 |
-| FN+N                | End              | End                                                                  |
-| FN+J                | PgUp             | Page Up                                                              |
-| FN+M                | PgDn             | Page Down                                                            |
+| FN+I                | Ins              | Insert (Vim-like and semantic binding)     |
 | &nbsp;              |                  |                                                                      |
 | FN+/?               | Up               | Up                                                                   |
 | FN+App              | Down             | Down                                                                 |
