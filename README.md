@@ -102,7 +102,7 @@ This is my personal layout which I use on an everyday basis. This layout consist
 | FN+B                | PgUp             | Page Up (Vim-like binding)                 |
 | FN+N                | End              | End                                        |
 | FN+M                | Home             | Home                                       |
-| FN+Right Shift      | -                | Query Battery Status                       |
+| FN+RShift           | -                | Query Battery Status                       |
 
 Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
 
