@@ -57,8 +57,9 @@ Vim related (I compiled them from different sources). In this repository you wil
 
 ### <a id="vim-like">Vim-like layout
 
-This is my personal layout which I use on the everyday basis. Pay attention that I remapped CapsLock to Any key (which works as
-the Esc key or FN key in combinations). This exact layout doesn't use the 3rd layer.
+This is my personal layout which I use on an everyday basis. This layout consists of 2 layers: the `Base layer` and the
+`Function layer`. To use the Function layer, hold the App key (the third button on the bottom right) or the CapsLock key.
+**Pay attention** that I remapped CapsLock to Any key (which works as the Esc key or FN key in combinations).
 
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/669d3c17-302f-4315-ae1a-70200fb37a5e" />
@@ -84,22 +85,24 @@ the Esc key or FN key in combinations). This exact layout doesn't use the 3rd la
 | FN+0                | F10              | F10                                        |
 | FN+-_               | F11              | F11                                        |
 | FN+=+               | F12              | F12                                        |
+| &nbsp;              |                  |                                            |
 | FN+T                | PrtSc            | Print Screen                               |
 | FN+Y                | Scroll           | Scroll                                     |                
 | FN+U                | Pause            | Pause                                      |
-| &nbsp;              |                  |                                            |
 | FN+I                | Ins              | Insert (Vim-like and semantic binding)     |
-| FN+D                | Del              | Delete (semantic binding)                  |
-| FN+X                | Del              | Delete (Vim-like binding)                  |
-| FN+M                | Home             | Home                                       |
-| FN+N                | End              | End                                        |
-| FN+B                | PgUp             | Page Up (Vim-like binding)                 |
-| FN+F                | PgDn             | Page Down (Vim-like binding)               |
 | &nbsp;              |                  |                                            |
-| FN+K                | Up               | Up (Vim-like binding)                      |
-| FN+J                | Down             | Down (Vim-like binding)                    |
+| FN+D                | Del              | Delete (semantic binding)                  |
+| FN+F                | PgDn             | Page Down (Vim-like binding)               |
 | FN+H                | Left             | Left (Vim-like binding)                    |
+| FN+J                | Down             | Down (Vim-like binding)                    |
+| FN+K                | Up               | Up (Vim-like binding)                      |
 | FN+L                | Right            | Right (Vim-like binding)                   |
+| &nbsp;              |                  |                                            |
+| FN+X                | Del              | Delete (Vim-like binding)                  |
+| FN+B                | PgUp             | Page Up (Vim-like binding)                 |
+| FN+N                | End              | End                                        |
+| FN+M                | Home             | Home                                       |
+| FN+Right Shift      | -                | Query Battery Status                       |
 
 Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
 
