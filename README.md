@@ -61,8 +61,8 @@ This is my personal layout which I use on the everyday basis. Pay attention that
 the Esc key or FN key in combinations). This exact layout doesn't use the 3rd layer.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/8c93579b-4311-4720-826a-6041f2028bad" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/e231e1cf-cccb-4804-9c88-4b21543efbc9" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/669d3c17-302f-4315-ae1a-70200fb37a5e" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/a2d77eb2-470e-4f30-b694-daa9bebf89c4" />
 </p>
 
 | Key/Key combination | Key              | Description                                |
@@ -100,11 +100,6 @@ the Esc key or FN key in combinations). This exact layout doesn't use the 3rd la
 | FN+J                | Down             | Down (Vim-like binding)                    |
 | FN+H                | Left             | Left (Vim-like binding)                    |
 | FN+L                | Right            | Right (Vim-like binding)                   |
-| &nbsp;              |                  |                                            |
-| FN+[                |                  | Toggle LOGO LED light mode                 |
-| FN+]                |                  | Toggle LOGO LED light color                |
-| FN+Space            |                  | Toggle ON/OFF Backlight                    |
-| FN+Backspace        |                  | Reset the keyboard to the factory settings |
 
 Download the [Vim-like layout](layouts/vim-like-cidoo_qk61.layout.json) - use "Download as raw file".
 
