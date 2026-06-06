@@ -110,9 +110,9 @@ To enter the 3rd layer press the very bottom right key - let's call it the Raise
 but I would like to share it because it might be useful for someone who misses the arrow keys and PgUp/PgDn keys are fun to use.
 
 <p align="center">
-<img alt="Layer 0" src="https://github.com/user-attachments/assets/fe47a9a0-5666-4c63-a9a1-c7786c49e2fd" />
-<img alt="Layer 2" src="https://github.com/user-attachments/assets/d8d1d2a1-6c38-4f71-9d18-c79bef676ce4" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/a8695afe-1b19-4371-a136-aa531ae97c30" />
+<img alt="Layer 0" src="https://github.com/user-attachments/assets/bee7229b-29d5-43cc-86a5-dcf45e65bd00" />
+<img alt="Layer 2" src="https://github.com/user-attachments/assets/beafb89c-dd9c-4527-89a6-85d878d609ba" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/2453f538-bf7f-416e-88d6-29100b0865f7" />
 </p>
 
 | Key/Key combination | Key              | Description                                |
