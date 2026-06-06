@@ -115,7 +115,7 @@ but I would like to share it because it might be useful for someone who misses t
 <p align="center">
 <img alt="Layer 0" src="https://github.com/user-attachments/assets/bee7229b-29d5-43cc-86a5-dcf45e65bd00" />
 <img alt="Layer 2" src="https://github.com/user-attachments/assets/beafb89c-dd9c-4527-89a6-85d878d609ba" />
-<img alt="Layer 3" src="https://github.com/user-attachments/assets/2453f538-bf7f-416e-88d6-29100b0865f7" />
+<img alt="Layer 3" src="https://github.com/user-attachments/assets/206ce77f-03a9-453d-a220-aebd3611e99d" />
 </p>
 
 | Key/Key combination | Key              | Description                                |

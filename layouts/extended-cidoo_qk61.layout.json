@@ -1,4 +1,4 @@
-
+{
   "name": "CIDOO QK61",
   "vendorProductId": 917516341,
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
@@ -369,10 +369,10 @@
       "RGB_SAD",
       "RGB_SAI",
       "KC_B",
-      "KC_N",
-      "KC_MUTE",
       "KC_VOLD",
+      "KC_MUTE",
       "KC_VOLU",
+      "KC_PGUP",
       "KC_UP",
       "KC_NO",
       "KC_PGDN",
